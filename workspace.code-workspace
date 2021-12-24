@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "src/server.gin/frontend"
+		},
+		{
+			"path": "src/server.gin"
+		}
+	],
+	"settings": {}
+}
